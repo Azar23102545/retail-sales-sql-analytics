@@ -72,7 +72,7 @@ Ladda ner datasetet från Kaggle och lägg det i `data/raw/online_retail.csv`, k
 jupyter notebook
 ```
 
-Kör `01_build_database.ipynb` först, sedan `02_analysis.ipynb`.
+Kör `01_build_database.ipynb` först sedan `02_analysis.ipynb`.
 
 ## Teknikstack
 
